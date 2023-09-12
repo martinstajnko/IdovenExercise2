@@ -18,7 +18,7 @@ Before running the tests, ensure you have the following prerequisites:
 4. Perform ```poetry shell```.
 
 
-## Running tests local:
+## Running tests locally:
 To run the tests, execute the following command in your project directory:
 ```poetry run pytest tests/test_demo.py```
 
@@ -43,7 +43,7 @@ To generate an HTML test report, you can use the following command:
 - ```-rP -rF```: These options control the display of test summary information. -rP displays the passed tests first, and -rF shows the failed tests first. You can adjust these options based on your preference.
 
 
-## Running tests remote:
+## Running tests remotely:
 
 Example is written for use of Firefox.
 
