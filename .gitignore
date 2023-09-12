@@ -1,4 +1,4 @@
 __pycatche__
 .pytest_cache
 .vscode
-./test_reports
+test_reports
